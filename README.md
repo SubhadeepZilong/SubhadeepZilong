@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/subhadeepzilong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsubhadeepzilong&screen_name=subhadeepzilong)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
