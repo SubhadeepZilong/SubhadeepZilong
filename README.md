@@ -41,6 +41,9 @@
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
 | 1. | [Music Player](https://github.com/SubhadeepZilong/Music-Player-Java) | 0% |
+| 2. | [Base Converter](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
+| 3. | [Calculator](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
+| 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 100% |
 
 
 ### Python
@@ -57,13 +60,10 @@
 | 8. | [Ping Automation](https://github.com/SubhadeepZilong/Ping-Automation-Python) | 100% |
 
 
-### Android
+### Android (Kotlin)
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
-| 1. | [Base Converter](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
-| 2. | [Calculator](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
-| 3. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 100% |
 
 
 
