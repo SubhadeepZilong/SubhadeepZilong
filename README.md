@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhadeep Chakraborty</h1>
 <h3 align="center">I'm an Aspiring Developer and Student from India</h3>
 
-##
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/subhadeepzilong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsubhadeepzilong&screen_name=subhadeepzilong)
@@ -29,7 +27,5 @@
 ##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeepzilong&show_icons=true&locale=en&layout=compact" alt="subhadeepzilong" /></p>
-
-##
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadeepzilong&show_icons=true&locale=en" alt="subhadeepzilong" /></p>
