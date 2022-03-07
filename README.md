@@ -36,7 +36,7 @@
 
 ## Small Projects
 
-### Java
+### Java & Android (Java)
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
