@@ -40,28 +40,51 @@
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
-| 1. | [Test](www.google.com) | 100% |
+| 1. | [Music Player](https://github.com/SubhadeepZilong/Music-Player-Java) | 0% |
 
 
 ### Python
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
-| 1. |  |  |
+| 1. | [Wallpaper Change Automation](https://github.com/SubhadeepZilong/Automate-Wallpaper-Changer) | 100% |
+| 2. | [Password Generator](https://github.com/SubhadeepZilong/Password-Generator) | 100% |
+| 3. | [Rock, Paper & Scissors](https://github.com/SubhadeepZilong/Rock-Paper-Scissors) | 100% |
+| 4. | [Tic Tac Toe](https://github.com/SubhadeepZilong/Tic-Tac-Toe) | 100% |
+| 5. | [Discord Bot](https://github.com/SubhadeepZilong/Discord-Bot-Python) | 100% |
+| 6. | [Email Sending](https://github.com/SubhadeepZilong/Email-Sending-via-Python) | 100% |
+| 7. | [Music Player (Tkinter)](https://github.com/SubhadeepZilong/Music-Player-Tkinter) | 100% |
+| 8. | [Ping Automation](https://github.com/SubhadeepZilong/Ping-Automation-Python) | 100% |
 
 
 ### Android
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
-| 1. |  |  |
+| 1. | [Base Converter](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
+| 2. | [Calculator](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
+| 3. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 100% |
+
 
 
 ### HTML , CSS & JS
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
-| 1. |  |  |
+| 1. | [Number Guesser](https://github.com/SubhadeepZilong/Number-Guesser) | 100% |
+| 2. | [Minions](https://github.com/SubhadeepZilong/Minions) | 100% |
+
+
+### Unsorted
+
+| Sr.No. | Name | Completion |
+| :--: | :-- | --: |
+| 1. | [Server List](https://github.com/SubhadeepZilong/Server-List) | 100% |
+| 2. | [VHDL Programs](https://github.com/SubhadeepZilong/VHDL) | 100% |
+| 3. | [GNUSim8085 Programs](https://github.com/SubhadeepZilong/GNUSim8085) | 0% |
+| 4. | [Stock Price Prediction](https://github.com/SubhadeepZilong/Stock-Price-Prediction) | 0% |
+| 5. | [Computer Graphics Programs](https://github.com/SubhadeepZilong/Computer-Graphics) | 100% |
+| 6. | [Shell Programs](https://github.com/SubhadeepZilong/Shell-Programs) | 100% |
 
 
 ## 
