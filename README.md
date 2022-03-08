@@ -84,10 +84,10 @@
 | :--: | :-- | --: |
 | 1. | [Server List](https://github.com/SubhadeepZilong/Server-List) | 100% |
 | 2. | [VHDL Programs](https://github.com/SubhadeepZilong/VHDL) | 100% |
-| 3. | [GNUSim8085 Programs](https://github.com/SubhadeepZilong/GNUSim8085) | 0% |
-| 4. | [Stock Price Prediction](https://github.com/SubhadeepZilong/Stock-Price-Prediction) | 0% |
-| 5. | [Computer Graphics Programs](https://github.com/SubhadeepZilong/Computer-Graphics) | 100% |
-| 6. | [Shell Programs](https://github.com/SubhadeepZilong/Shell-Programs) | 100% |
+| 3. | [Computer Graphics Programs](https://github.com/SubhadeepZilong/Computer-Graphics) | 100% |
+| 4. | [Shell Programs](https://github.com/SubhadeepZilong/Shell-Programs) | 100% |
+| 5. | [GNUSim8085 Programs](https://github.com/SubhadeepZilong/GNUSim8085) | 0% |
+| 6. | [Stock Price Prediction](https://github.com/SubhadeepZilong/Stock-Price-Prediction) | 0% |
 
 
 ## 
