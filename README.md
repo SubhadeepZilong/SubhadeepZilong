@@ -44,6 +44,7 @@
 | 2. | [Base Converter](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
 | 3. | [Calculator](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
 | 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 100% |
+| 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 0% |
 
 
 ### Python
@@ -58,6 +59,7 @@
 | 6. | [Email Sending](https://github.com/SubhadeepZilong/Email-Sending-via-Python) | 100% |
 | 7. | [Music Player (Tkinter)](https://github.com/SubhadeepZilong/Music-Player-Tkinter) | 100% |
 | 8. | [Ping Automation](https://github.com/SubhadeepZilong/Ping-Automation-Python) | 100% |
+| 9. | [Metadata Extractor](https://github.com/SubhadeepZilong/Metadata-Extractor-Python) | 100% |
 
 
 ### Android (Kotlin)
@@ -73,6 +75,7 @@
 | :--: | :-- | --: |
 | 1. | [Number Guesser](https://github.com/SubhadeepZilong/Number-Guesser) | 100% |
 | 2. | [Minions](https://github.com/SubhadeepZilong/Minions) | 100% |
+| 3. | [Calorie Calculator](https://github.com/SubhadeepZilong/Calorie-Calculator-Website) | 0% |
 
 
 ### Unsorted
