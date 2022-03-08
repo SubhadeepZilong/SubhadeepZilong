@@ -41,8 +41,8 @@
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
 | 1. | [Music Player](https://github.com/SubhadeepZilong/Music-Player-Java) | 0% |
-| 2. | [Base Converter](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
-| 3. | [Calculator](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
+| 2. | [Base Converter App](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
+| 3. | [Calculator App](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
 | 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 100% |
 | 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 0% |
 
