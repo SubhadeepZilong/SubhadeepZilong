@@ -40,11 +40,11 @@
 
 | Sr.No. | Name | Completion |
 | :--: | :-- | --: |
-| 1. | [Music Player](https://github.com/SubhadeepZilong/Music-Player-Java) | 0% |
+| 1. | [Music Player](https://github.com/SubhadeepZilong/Music-Player-Java) | 100% |
 | 2. | [Base Converter App](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
 | 3. | [Calculator App](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
-| 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 100% |
-| 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 0% |
+| 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 0% |
+| 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 50% |
 
 
 ### Python
