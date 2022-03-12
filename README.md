@@ -77,24 +77,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-##
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sublime-000000.svg?style=for-the-badge&logo=Sublime Text&logoColor=white" alt="postman"/>
-  </a>
-</p>
 
 ##
 
