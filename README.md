@@ -93,6 +93,7 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadeepZilong&theme=algolia" alt="SubhadeepZilong" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -105,12 +106,13 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   
    <a href="https://github.com/SubhadeepZilong"><img alt="SubhadeepZilong's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhadeepZilong&custom_title=SubhadeepZilong's%20Contribution%20Graph&theme=react-dark" /></a>
    
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## :trophy: Git profile Trophies
 
