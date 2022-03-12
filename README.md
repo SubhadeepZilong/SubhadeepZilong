@@ -28,11 +28,6 @@
 
 ##
 
-div align="center">
-  <a href="https://open.spotify.com/user/31jfkjes7jmwis7b6ihci6ymjadq">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
 
 ## Small Projects
 
