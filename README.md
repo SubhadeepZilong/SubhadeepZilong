@@ -5,6 +5,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/subhadeepzilong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsubhadeepzilong&screen_name=subhadeepzilong)
 
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+
 
 ##
 
