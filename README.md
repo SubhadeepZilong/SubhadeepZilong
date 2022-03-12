@@ -41,11 +41,11 @@
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
-  <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sublime-000000.svg?style=for-the-badge&logo=Sublime Text&logoColor=white" alt="postman"/>
-  </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
+  <a href="https://www.sublimetext.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sublime-000000.svg?style=for-the-badge&logo=Sublime Text&logoColor=white" alt="postman"/>
   </a>
 </p>
 
