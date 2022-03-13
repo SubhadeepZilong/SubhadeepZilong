@@ -106,7 +106,9 @@
 | 7. | [Music Player (Tkinter)](https://github.com/SubhadeepZilong/Music-Player-Tkinter) | 100% |
 | 8. | [Ping Automation](https://github.com/SubhadeepZilong/Ping-Automation-Python) | 100% |
 | 9. | [Metadata Extractor](https://github.com/SubhadeepZilong/Metadata-Extractor-Python) | 100% |
-| 10. | [Wordle Discord Bot](https://github.com/SubhadeepZilong/Wordle-Discord-Bot) | 0% |
+| 10. | [Image Compressor](https://github.com/SubhadeepZilong/Image-Compressor) | 100% |
+| 11. | [Gif Convertor](https://github.com/SubhadeepZilong/Gif-Convertor) | 100% |
+| 12. | [Wordle Discord Bot](https://github.com/SubhadeepZilong/Wordle-Discord-Bot) | 0% |
 
 
 ### Android (Kotlin)
