@@ -106,6 +106,7 @@
 | 7. | [Music Player (Tkinter)](https://github.com/SubhadeepZilong/Music-Player-Tkinter) | 100% |
 | 8. | [Ping Automation](https://github.com/SubhadeepZilong/Ping-Automation-Python) | 100% |
 | 9. | [Metadata Extractor](https://github.com/SubhadeepZilong/Metadata-Extractor-Python) | 100% |
+| 10. | [Wordle Discord Bot](https://github.com/SubhadeepZilong/Wordle-Discord-Bot) | 0% |
 
 
 ### Android (Kotlin)
@@ -122,6 +123,9 @@
 | 1. | [Number Guesser](https://github.com/SubhadeepZilong/Number-Guesser) | 100% |
 | 2. | [Minions](https://github.com/SubhadeepZilong/Minions) | 100% |
 | 3. | [Calorie Calculator](https://github.com/SubhadeepZilong/Calorie-Calculator-Website) | 0% |
+| 3. | [Weather Tracker](https://github.com/SubhadeepZilong/Weather-Tracker) | 100% |
+| 3. | [Tic Tac Toe](https://github.com/SubhadeepZilong/Tic-Tac-Toe-Websitee) | 0% |
+| 3. | [Covid Tracker](https://github.com/SubhadeepZilong/Covid-Tracker) | 0% |
 
 
 ### Unsorted
