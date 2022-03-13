@@ -123,9 +123,9 @@
 | 1. | [Number Guesser](https://github.com/SubhadeepZilong/Number-Guesser) | 100% |
 | 2. | [Minions](https://github.com/SubhadeepZilong/Minions) | 100% |
 | 3. | [Calorie Calculator](https://github.com/SubhadeepZilong/Calorie-Calculator-Website) | 0% |
-| 3. | [Weather Tracker](https://github.com/SubhadeepZilong/Weather-Tracker) | 100% |
-| 3. | [Tic Tac Toe](https://github.com/SubhadeepZilong/Tic-Tac-Toe-Websitee) | 0% |
-| 3. | [Covid Tracker](https://github.com/SubhadeepZilong/Covid-Tracker) | 0% |
+| 4. | [Weather Tracker](https://github.com/SubhadeepZilong/Weather-Tracker) | 100% |
+| 5. | [Tic Tac Toe](https://github.com/SubhadeepZilong/Tic-Tac-Toe-Websitee) | 0% |
+| 6. | [Covid Tracker](https://github.com/SubhadeepZilong/Covid-Tracker) | 0% |
 
 
 ### Unsorted
