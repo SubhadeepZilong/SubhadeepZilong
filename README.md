@@ -90,7 +90,7 @@
 | 2. | [Base Converter App](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
 | 3. | [Calculator App](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
 | 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 0% |
-| 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 50% |
+| 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 100% |
 
 
 ### Python
