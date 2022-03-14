@@ -129,7 +129,7 @@
 | 3. | [Calorie Calculator](https://github.com/SubhadeepZilong/Calorie-Calculator-Website) | 0% |
 | 4. | [Weather Tracker](https://github.com/SubhadeepZilong/Weather-Tracker) | 100% |
 | 5. | [Tic Tac Toe](https://github.com/SubhadeepZilong/Tic-Tac-Toe-Websitee) | 0% |
-| 6. | [Covid Tracker](https://github.com/SubhadeepZilong/Covid-Tracker) | 0% |
+| 6. | [Snowflakes](https://github.com/SubhadeepZilong/Snowflakes) | 0% |
 
 
 ### Unsorted
