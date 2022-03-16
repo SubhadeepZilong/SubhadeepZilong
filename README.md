@@ -140,7 +140,7 @@
 | 2. | [VHDL Programs](https://github.com/SubhadeepZilong/VHDL) | 100% |
 | 3. | [Computer Graphics Programs](https://github.com/SubhadeepZilong/Computer-Graphics) | 100% |
 | 4. | [Shell Programs](https://github.com/SubhadeepZilong/Shell-Programs) | 100% |
-| 5. | [GNUSim8085 Programs](https://github.com/SubhadeepZilong/GNUSim8085) | 0% |
+| 5. | [GNUSim8085 Programs](https://github.com/SubhadeepZilong/GNUSim8085) | 100% |
 | 6. | [Stock Price Prediction](https://github.com/SubhadeepZilong/Stock-Price-Prediction) | 0% |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
