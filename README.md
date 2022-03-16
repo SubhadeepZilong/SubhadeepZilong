@@ -45,6 +45,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-430098.svg?logo=Discord&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
