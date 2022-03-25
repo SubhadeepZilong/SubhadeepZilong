@@ -112,8 +112,8 @@
 | 12. | [URL Shortener](https://github.com/SubhadeepZilong/URL-Shortener) | 100% |
 | 13. | [Mp4 To Mp3 Convertor](https://github.com/SubhadeepZilong/Mp4-To-Mp3-Converter) | 100% |
 | 14. | [Wordle Discord Bot](https://github.com/SubhadeepZilong/Wordle-Discord-Bot) | 0% |
-| 15. | [Docx-to-PDF-Converter](https://github.com/SubhadeepZilong/Docx-to-PDF-Converter) | 0% |
-| 16. | [PDF-to-Docx-Converter](https://github.com/SubhadeepZilong/PDF-to-Docx-Converter) | 0% |
+| 15. | [Docx-to-PDF-Converter](https://github.com/SubhadeepZilong/Docx-to-PDF-Converter) | 100% |
+| 16. | [PDF-to-Docx-Converter](https://github.com/SubhadeepZilong/PDF-to-Docx-Converter) | 100% |
 
 ### Android (Kotlin)
 
