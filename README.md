@@ -90,7 +90,6 @@
 | 1. | [Music Player](https://github.com/SubhadeepZilong/Music-Player-Java) | 100% |
 | 2. | [Base Converter App](https://github.com/SubhadeepZilong/Base-Converter) | 100% |
 | 3. | [Calculator App](https://github.com/SubhadeepZilong/Calculator-App) | 100% |
-| 4. | [Resistor App](https://github.com/SubhadeepZilong/Resistor-App) | 0% |
 | 5. | [Calorie Calculator App](https://github.com/SubhadeepZilong/Calorie-Calculator-App) | 100% |
 
 
@@ -111,9 +110,8 @@
 | 11. | [Video To Gif Convertor](https://github.com/SubhadeepZilong/Video-To-Gif-Convertor) | 100% |
 | 12. | [URL Shortener](https://github.com/SubhadeepZilong/URL-Shortener) | 100% |
 | 13. | [Mp4 To Mp3 Convertor](https://github.com/SubhadeepZilong/Mp4-To-Mp3-Converter) | 100% |
-| 14. | [Wordle Discord Bot](https://github.com/SubhadeepZilong/Wordle-Discord-Bot) | 0% |
-| 15. | [Docx-to-PDF-Converter](https://github.com/SubhadeepZilong/Docx-to-PDF-Converter) | 100% |
-| 16. | [PDF-to-Docx-Converter](https://github.com/SubhadeepZilong/PDF-to-Docx-Converter) | 100% |
+| 14. | [Docx-to-PDF-Converter](https://github.com/SubhadeepZilong/Docx-to-PDF-Converter) | 100% |
+| 15. | [PDF-to-Docx-Converter](https://github.com/SubhadeepZilong/PDF-to-Docx-Converter) | 100% |
 
 ### Android (Kotlin)
 
@@ -130,7 +128,7 @@
 | 2. | [Minions](https://github.com/SubhadeepZilong/Minions) | 100% |
 | 3. | [Calorie Calculator](https://github.com/SubhadeepZilong/Calorie-Calculator-Website) | 0% |
 | 4. | [Weather Tracker](https://github.com/SubhadeepZilong/Weather-Tracker) | 100% |
-| 5. | [Tic Tac Toe](https://github.com/SubhadeepZilong/Tic-Tac-Toe-Websitee) | 0% |
+| 5. | [Capcha Generator](https://github.com/SubhadeepZilong/Capcha-Generator) | 100% |
 | 6. | [Snowflakes](https://github.com/SubhadeepZilong/Snowflakes) | 100% |
 
 
