@@ -13,7 +13,17 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
+- 20 years old
+- CSE Undergrad
+- Narula Institute Of Technology, Kolkata
+- 2019-2023
+- I’m currently preparing for technical interviews
+- Currently working on my **DSA**
 
+##  My Top Projects
+
+
+##
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
