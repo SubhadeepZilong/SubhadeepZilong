@@ -1,6 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Subhadeep Chakraborty</h1>
 <h3 align="center">I'm an Aspiring Full Stack Developer and Student from India</h3>
 
+[![codechef badge](https://img.shields.io/badge/zilongdragneel-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/zilongdragneel)
+[![hackerrank badge](https://img.shields.io/badge/subhadeepchakra3-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/subhadeepchakra3)
+[![geeksforgeeks badge](https://img.shields.io/badge/subhadeepchakraborty555-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/subhadeepchakraborty555/practice)
+[![leetcode badge](https://img.shields.io/badge/subhadeepchakraborty555-30302f?style=flat&logo=leetcode)](https://leetcode.com/subhadeepchakraborty555)
+[![codeforces badge](https://img.shields.io/badge/subhadeepchakraborty555-30302f?style=flat&logo=codeforces)](https://codeforces.com/profile/subhadeepchakraborty555)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
