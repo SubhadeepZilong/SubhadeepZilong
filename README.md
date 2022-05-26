@@ -20,9 +20,6 @@
 - I’m currently preparing for technical interviews
 - Currently working on my **DSA**
 
-##  My Top Projects
-
-
 ##
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
