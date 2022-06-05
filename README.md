@@ -22,7 +22,7 @@
 
 ##
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me
 <p align="left">
 <a href="https://twitter.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhadeep-chakraborty-b341a8191" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
