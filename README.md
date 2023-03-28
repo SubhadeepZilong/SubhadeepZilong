@@ -13,7 +13,7 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 20 years old
+- 21 years old
 - CSE Undergrad
 - Narula Institute Of Technology, Kolkata
 - 2019-2023
