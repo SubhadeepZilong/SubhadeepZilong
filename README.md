@@ -12,11 +12,8 @@
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 - 21 years old
-- CSE Undergrad
-- Narula Institute Of Technology, Kolkata
-- 2019-2023
-- I’m currently preparing for technical interviews
-- Currently working on my **DSA**
+- CSE Grad from Narula Institute Of Technology, Kolkata
+- Associate at Accenture
 
 ##
 
